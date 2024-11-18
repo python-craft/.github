@@ -1,5 +1,22 @@
 ## Repositories
 
+- **Data Analysis Tools**:
+  - **`pandas`** - Read Write Data
+  - **`NumPy`** - Numerical Integration, Interpolation, Linear Algebra
+  - **`SciPy`** - more..
+
+- **Machine Learning Tools**:
+  - **`TensorFlow`** - Classification, Regression, Clustering, Predictive Analysis, Training deep learning models
+  - **`PyTorch`** - ...
+  - **`Keras`** - ...
+  - **`Scikit-learn`** - ...
+    
+- **Data Visualization Tools**:
+  - **`matplotlib`** - Visualization
+  - **`bokeh`** - Dashboards
+  - **`streamlit`** - Widgets
+  - **`Scikit-learn`** - ...
+
 ### Utilities
 - **Purpose**:  
   General-purpose utilities and snippets that are widely applicable across projects. A collection of small, focused code snippets for rapid prototyping.
